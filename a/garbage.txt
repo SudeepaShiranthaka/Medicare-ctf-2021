@@ -1,2 +1,3 @@
 int *foo = new int;
 std::cout << *foo << std::endl;
+
