@@ -1,3 +1,5 @@
+<?php include 'session.php';?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,6 +31,7 @@
     <!--*******************
         Preloader end
     ********************-->
+
 
 
     <!--**********************************
@@ -78,3 +81,10 @@
 </body>
 
 </html>
+		    <?php
+    // }
+
+    // else {
+    //   echo "<script>alert('You have No access');window.location='login.php';</script>";
+    // }
+?>

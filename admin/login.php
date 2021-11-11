@@ -1,6 +1,3 @@
-<?php
-?>
-
 <html>
 <head>
     <meta charset="utf-8">
@@ -71,6 +68,5 @@
     <script src="./js/deznav-init.js"></script>
 
 </body>
-
 
 </html>

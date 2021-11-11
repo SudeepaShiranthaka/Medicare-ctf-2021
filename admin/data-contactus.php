@@ -1,7 +1,5 @@
 <?php
 
-//data-contactus.php
-
 include_once 'config.php';
 
 $name = $_POST['name'];

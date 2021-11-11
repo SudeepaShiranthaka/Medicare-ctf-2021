@@ -77,7 +77,7 @@ if (isset($_POST['upload'])) { // If isset upload button or not
 					or <span>browse</span> to begin the upload
 				</p>
 			</label>
-			<button name="upload" class="btn">Upload</button>
+			<button name="upload" class="btn"><b>Upload</b></button>
 		</form>
 	</div>
 </body>

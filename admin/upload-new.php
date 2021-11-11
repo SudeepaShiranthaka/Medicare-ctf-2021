@@ -1,6 +1,4 @@
-<?php
-
-?>
+<?php include 'session.php';?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -65,7 +63,7 @@
 			<div class="container-fluid">
 				<div class="form-head d-flex align-items-center mb-sm-4 mb-3">
 					<div class="mr-auto">
-						<h2 class="text-black font-w600">Add New Configuration</h2>
+						<h2 class="text-black font-w600">Upload Configuration File</h2>
 						<h4 class="text-primary mb-0 ">Administrator | Kamal Rajapakshe</h4>
 					</div>
 				</div>

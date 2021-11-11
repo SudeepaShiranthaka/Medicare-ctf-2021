@@ -1,6 +1,3 @@
-<?php
-?>
-
 <html>
 <head>
     <meta charset="utf-8">
@@ -471,3 +468,10 @@
     <body>
 
 </html>
+		    <?php
+//    }
+
+    // else {
+    //   echo "<script>alert('You have No access');window.location='login.php';</script>";
+    // }
+?>

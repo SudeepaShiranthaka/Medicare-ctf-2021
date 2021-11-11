@@ -1,10 +1,3 @@
-<?php
-    // include_once 'config.php';
-
-    // session_start();
-    // if(isset($_SESSION['uid'])){
-?>
-
 <html>
 <head>
     <meta charset="utf-8">
@@ -19,6 +12,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 </head>
 <body>
+	
             <!--**********************************
             Sidebar start
         ***********************************-->
@@ -100,13 +94,11 @@
         <!--**********************************
             Sidebar end
         ***********************************-->
+
     <body>
 
 </html>
-    <?php
-    
 
-    // else {
-    //   echo "<script>alert('You have No access');window.location='login.php';</script>";
-    // }
-?>
+
+
+
